@@ -4,7 +4,7 @@ const routes=[
     {
         method: 'POST',
         path: '/notes',
-        handler: addNoteHandler,    // https://www.dicoding.com/academies/261/discussions/325473
+        handler: addNoteHandler,   
     },
     {
         method: 'GET',
