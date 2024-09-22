@@ -1,2 +1,6 @@
 node_modules
 DicodingNotesAPIServer.pem
+.env
+.prod.env
+Notes API Test.postman_environment.json
+Notes API Test.postman_collection.json
